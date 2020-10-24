@@ -16,3 +16,5 @@ jobs:
       with:
         bundle: "vorta-dev.flatpak"
         manifest-path: "flatpak/com.borgbase.Vorta.json"
+        app-id: "com.borgbase.Vorta"
+        flatpak-module: "vorta"
